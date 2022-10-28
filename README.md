@@ -47,6 +47,8 @@ recent release at u211 or above.
 # Contributing
 We always welcome new contributors to the project! See [How to Contribute](https://cwiki.apache.org/confluence/display/ZOOKEEPER/HowToContribute) for details on how to submit patches as pull requests and other aspects of our contribution workflow.
 
+Test
+
 
 [ciBadge]: https://github.com/apache/zookeeper/workflows/CI/badge.svg
 [ciLink]: https://github.com/apache/zookeeper/actions

@@ -8,7 +8,7 @@
 
 For the latest information about Apache ZooKeeper, please visit our website at:
 
-   https://zookeeper.apache.org
+   https://zookeeper.apache.org m.,m
 
 and our wiki, at:
 
